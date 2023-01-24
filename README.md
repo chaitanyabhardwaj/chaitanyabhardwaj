@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaitanyabhardwaj
-- 👀 I’m interested in Machine learning and AR/VR development
+- 👨🏻‍💻 I'm a full stack developer (Java | NodeJS | AngularJS | ReactJS)
 - 📚 I’m currently learning Machine learning
 - 🤝 I’m looking to collaborate on AR/VR | Game dev
 - 👓 Know more about me at https://chaitanyabhardwaj.github.io
