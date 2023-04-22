@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaitanyabhardwaj
-- 👨🏻‍💻 I'm a full stack developer (Java | NodeJS | AngularJS | ReactJS)
+- 👨🏻‍💻 I'm a full stack developer (Java | NodeJS | ReactJS)
 - 📚 I’m currently learning Machine learning
 - 🤝 I’m looking to collaborate on AR/VR | Game dev
 - 👓 Know more about me at https://chaitanyabhardwaj.github.io
