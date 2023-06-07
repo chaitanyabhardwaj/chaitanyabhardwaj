@@ -9,13 +9,16 @@ You can click the Preview link to take a look at your changes.
   <img src='https://github-readme-streak-stats.herokuapp.com?user=chaitanyabhardwaj&theme=tokyonight&border_radius=5&card_width=450'>
   <div align='left'>
     <hr>
-    <ul>
-      <li>👋 Hi, I’m @chaitanyabhardwaj</li>
-      <li>👨🏻‍💻 I'm a full stack developer</li>
-      <li>📚 I’m currently learning Machine learning</li>
-      <li>🤝 I’m looking to collaborate on AR/VR | Game dev</li>
-      <li>👓 Know more about me at https://chaitanyabhardwaj.github.io</li>
-    </ul>
+    <div align='left'>
+      <ul>
+        <li>👋 Hi, I’m @chaitanyabhardwaj</li>
+        <a href='https://chaitanyabhardwaj.github.io' target='_blank'><img src='https://github-production-user-asset-6210df.s3.amazonaws.com/17910338/244163662-60514a32-7224-40b9-8c04-41c692d0dbd6.png' align='right' width=100 height=auto></a>
+        <li>👨🏻‍💻 I'm a full stack developer</li>
+        <li>📚 I’m currently learning Machine learning</li>
+        <li>🤝 I’m looking to collaborate on AR/VR | Game dev</li>
+        <li>👓 Know more about me at https://chaitanyabhardwaj.github.io</li>
+      </ul>
+    </div>
     <h3>
       My Tech Stack
     </h3>
