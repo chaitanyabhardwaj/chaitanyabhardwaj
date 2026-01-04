@@ -5,8 +5,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align='center'>
   <img src='https://media.giphy.com/media/xJZrfP8FSvB6X9N4uZ/giphy.gif' width=150 height=auto>
-  <br>
-  <img src='https://github-readme-streak-stats.herokuapp.com?user=chaitanyabhardwaj&theme=tokyonight&border_radius=5&card_width=450'>
   <div align='left'>
     <hr>
     <div align='left'>
